@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+mycloud
+db.sqlite3
+/static
+.DS_Store
+
